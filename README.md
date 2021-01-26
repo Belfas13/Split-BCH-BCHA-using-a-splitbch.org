@@ -1,5 +1,5 @@
 # Split BCH and BCHA using a [splitbch.org](https://splitbch.org/)
-How to split Bitcoin Cash and Bitcoin Cash ABC
+How to split Bitcoin Cash and Bitcoin Cash ABC after HardFork 2020
 
 <a>
  <a href="">
@@ -23,3 +23,15 @@ In order to use this tool, you must have a paper wallet (or private key) holding
 
 
 [![Split BCH!](https://i.ibb.co/jrqtmKD/Split-BCH-BCHA.png)](https://splitbch.org/)
+
+### Benefits of the new release
+Faster confirmations
+Slow confirmations have been an ongoing frustration for Bitcoin Cash users and businesses alike. A new difficulty adjustment algorithm called ASERT helps by reducing the incidence of unexpectedly long block times. As a result, transactions will be confirmed more quickly on average.
+
+### More predictable profits
+Previously, businesses consistently mining Bitcoin Cash were prone to occasional profit loss because the difficulty adjustment algorithm was flawed. With ASERT, steady miners will see more stable profits and can earn up to 6% more, according to simulations.
+
+### Reliable network development
+A new coinbase rule will reinvest 8% of the coinbase reward into Bitcoin Cash infrastructure development. That means more technical talent can be hired to maintain and develop the network so it can better support your business moving forward.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BitcoinCashABC) 
