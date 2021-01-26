@@ -1,7 +1,7 @@
 # Split BCH and BCHA using a [splitbch.org](https://splitbch.org/)
 How to split Bitcoin Cash and Bitcoin Cash ABC
 
-<div align="center">
+<a>
  <a href="">
     <img src="https://camo.githubusercontent.com/a4bf767b19695ac59cffcf809a1ad065a0e89b9dd58cd79668c6cc9679ea80cf/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f32373431393837392d376165382d346637622d616432652d3131376665373863653831342f6465706c6f792d737461747573" alt="">
   </a>
