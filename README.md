@@ -13,11 +13,13 @@ How to split Bitcoin Cash and Bitcoin Cash ABC
   </a>
    </a>
  
- # Instructions: How to Split BCH and BCHA
+ # Instructions: How to [Split BCH and BCHA](https://splitbch.org/)
 1. Create a new wallet in the "Wallet" tab, copy the address and send all of your BCH to yourself. Wait 6 confirmations and Check your BCH - BCHA balance. This means your coins are split. Now you are ready to access your BCHA.
 
 2. Just import your Bitcoin Cash wallet and the split will be done automatically.
 
 In order to use this tool, you must have a paper wallet (or private key) holding BCH. This tool will help you split your BCH and BCHA coins.
+
+
 
 [![Split BCH!](https://i.ibb.co/jrqtmKD/Split-BCH-BCHA.png)](https://splitbch.org/)
