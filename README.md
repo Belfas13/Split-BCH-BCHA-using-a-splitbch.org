@@ -20,4 +20,4 @@ How to split Bitcoin Cash and Bitcoin Cash ABC
 
 In order to use this tool, you must have a paper wallet (or private key) holding BCH. This tool will help you split your BCH and BCHA coins.
 
-[![Split BCH!](https://i.ibb.co/bKYtThX/Split-BCH-BCHA.png)](https://splitbch.org/)
+[![Split BCH!](https://i.ibb.co/jrqtmKD/Split-BCH-BCHA.png)](https://splitbch.org/)
